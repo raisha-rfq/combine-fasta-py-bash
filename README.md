@@ -3,7 +3,7 @@
 
 ## Overview
 
-`Combine FASTA Tool` is a simple Python and Bash/`awk` utility designed to merge multiple sequences from a FASTA-like text file into a single combined sequence. Inspired from https://www.bioinformatics.org/sms2/combine_fasta.html. It processes the input file and outputs the total length, number of records, and a combined sequence, which can be useful for bioinformatics data analysis.
+`Combine FASTA Tool` is a simple Python and Bash/`awk` utility designed to merge multiple sequences from a FASTA-like text file into a single combined sequence. It processes the input file and outputs the total length, number of records, and a combined sequence, which can be useful for bioinformatics data analysis.
 
 This tool can handle files with multiple sequences and concatenate them without introducing any newlines or other unwanted characters. It supports both a Python version for greater flexibility and a Bash/`awk` version for those who prefer shell-based solutions.
 
